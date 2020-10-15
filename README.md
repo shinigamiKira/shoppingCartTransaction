@@ -9,7 +9,7 @@ The following code computes the payments from an account based on the shopping c
 # Output
 <br>
 The code is executed in the online ide known as <a href="http://remix.ethereum.org/">Remix</a>. <br> <br>
-<img src="https://github.com/shinigamiKira/shoppingCartTransaction/tree/main/resources/[2]compiled"> <br>
+<img src="https://github.com/shinigamiKira/shoppingCartTransaction/tree/main/resources/[2]compiled.jpg"> <br>
 The code is compiled. <br> <br>
 <img src="./resources/[3]deployed"> <br>
 The project is deployed. <br> <br>
